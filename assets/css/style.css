@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+   background: turquoise;
+   color: thistle;
+   text-align: center;
+   font-family: Tahoma, sans-serif;
+   font-size: 48px;
+   text-shadow: 5px 5px 0 black;
+   padding-bottom: 10px;
+   margin-bottom: 30px;
+}
+
+nav p{
+    width: 90%;
+    font-family: 'Lucida Sans Unicode';
+    text-indent: 40px;
+    word-spacing: 40px;
+    margin: 40px;
+}
+
+main p{
+    width: 90%;
+    text-indent: 60px;
+    word-spacing: -2px;
+    margin: 40px;
+}
+
+h2{
+    width: 90%;
+    text-shadow: 3px 3px 0 thistle;
+    letter-spacing: 25px;
+    margin: 40px; 
+}
+
+section p{
+    background: turquoise;
+    line-height: 20px;
+    margin: 20px 0;
+    text-indent: 40px;
+}
+
+aside p{
+    background: thistle;
+    line-height: 30px;
+    margin: 20px 0;
+    text-indent: 40px;
+}
